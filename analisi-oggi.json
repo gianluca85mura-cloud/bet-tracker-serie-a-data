@@ -1,1 +1,1041 @@
-{"updatedAt": "2026-09-09T05:17:45Z", "daily": {"date": "2026-09-09", "generatedAt": "2026-09-09T05:30:00Z", "dismissedKeys": [], "matches": [{"id": "napoli-arsenal", "match": "Napoli - Arsenal", "orario": "21:00", "competizione": "UEFA Champions League - Fase campionato, 1ª giornata", "stadio": "Stadio Diego Armando Maradona (Napoli)", "contesto": "Esordio nella nuova fase campionato di Champions League. Il Napoli arriva da un momento difficile: 2 sconfitte consecutive in campionato (0-2 col Como, poi 2-3 rimontato dall'Inter), con 5 gol subiti nelle ultime 2 gare e McTominay indisponibile per almeno un mese. L'Arsenal, al contrario, è nel suo miglior momento storico recente: reduce dalla finale di Champions League 2025/26 (persa contro il PSG) e dalla vittoria della Premier League, con un solo gol subito in tutta la stagione fin qui. Oggi però i Gunners si presentano privi di Saliba, il centrale titolare, con anche il vice Mosquera in dubbio dopo la gara col Chelsea: un indebolimento reale della fase difensiva. Partite di questo tipo su questo campionato: 6 partite totali per la 1ª giornata di fase campionato Champions League oggi (Napoli-Arsenal, Barcellona-Feyenoord, Stoccarda-Viking, Liverpool-Atletico Madrid, PSG-Slovan Bratislava, Sporting-Galatasaray), confermate su 2 fonti indipendenti.", "fattori": [{"lato": "casa", "testo": "2 sconfitte consecutive in campionato (Como, Inter) con 5 gol subiti nelle ultime 2 gare; McTominay indisponibile per almeno un mese"}, {"lato": "casa", "testo": "Fattore Maradona in notturna europea, storicamente ostico per chiunque"}, {"lato": "ospite", "testo": "Solo 1 gol subito in stagione, reduce da finale di Champions League 2025/26 e da vittoria in Premier League"}, {"lato": "ospite", "testo": "Assenze pesanti al centro della difesa: Saliba fuori, Mosquera in dubbio dopo la gara col Chelsea, Timber probabile solo dalla panchina"}, {"lato": "neutro", "testo": "Il mercato quota l'Arsenal ampiamente favorito (2 a 1.70) più sulla base della forma generale che sul reale indebolimento difensivo di stasera"}], "stats": {"casa": {"possesso": 48, "passPrec": 82, "corner": 5, "falli": 12, "gialli": 2.2}, "ospite": {"possesso": 52, "passPrec": 87, "corner": 5.5, "falli": 11, "gialli": 1.8}, "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."}, "prob": {"casa": 0.21, "pareggio": 0.26, "ospite": 0.53}, "mercati": [{"label": "Doppia Chance 1X (Napoli o Pareggio)", "quotaIndicativa": 2.05, "fonte": "media Bet365/Snai/Netbet, rif. web", "probVera": 0.5, "nota": "Arsenal orfano di Saliba e con Mosquera in dubbio, entrambi i centrali titolari a rischio contro un Napoli in cerca di riscatto in casa: value modesto ma presente."}, {"label": "Gol/Gol Sì (BTTS Sì)", "quotaIndicativa": 1.88, "fonte": "quote promozionali raccolte, rif. web", "probVera": 0.55, "nota": "Il Napoli ha sempre segnato nelle prime uscite stagionali; la difesa Arsenal, seppur solida nei numeri, gioca stasera con centrali di riserva."}, {"label": "1 (Napoli vittoria)", "quotaIndicativa": 5.0, "fonte": "media Bet365/Snai/Netbet, rif. web", "probVera": 0.2, "nota": "Onestà: quota già in linea con la forza reale delle due squadre nonostante le assenze arsenaline, l'Arsenal resta nettamente favorito. Nessun valore evidente qui."}], "combo": {"label": "Doppia Chance 1X (Napoli o Pareggio) + Gol/Gol Sì", "quotaIndicativa": 3.85, "fonte": "stima combinata", "probVera": 0.3, "nota": "Combina le due migliori value della sfida; quota stimata per approssimazione, mercati non del tutto indipendenti. Verificare la quota combo reale prima di giocarla."}, "rischio": "L'Arsenal, pur privo di Saliba, resta la squadra più forte tecnicamente e ha subito un solo gol in stagione: se i centrali di riserva reggono l'urto, può vincere senza affanni anche a Fuorigrotta. Rischio opposto se il Napoli, spinto dall'ambiente, sfrutta subito le incertezze difensive ospiti."}, {"id": "barcelona-feyenoord", "match": "Barcellona - Feyenoord", "orario": "18:45", "competizione": "UEFA Champions League - Fase campionato, 1ª giornata", "stadio": "Camp Nou (Barcellona)", "contesto": "Il Barcellona arriva da un momento di forma straordinario: 4 vittorie consecutive in Liga, l'ultima un netto 5-0 in trasferta al Valencia (73% di possesso, 10 tiri in porta). Il Feyenoord ha un buon avvio in Eredivisie (11 punti in 5 gare, ultima vittoria 3-1 al NEC Nijmegen nonostante appena il 38% di possesso), ma si presenta a Barcellona con 5 assenze concentrate nei reparti arretrati (Bos, Smal, Nieuwkoop, Moder, Beelen). Il Barcellona è a sua volta privo di Eric Garcia (squalificato), de Jong e Bardghji, ma sono assenze che toccano meno la fase offensiva dei catalani.", "fattori": [{"lato": "casa", "testo": "4 vittorie consecutive in Liga, ultima un netto 5-0 al Valencia in trasferta; Raphinha, Fermin Lopez e Yamal in gran forma realizzativa"}, {"lato": "casa", "testo": "Assenze: Eric Garcia squalificato, de Jong e Bardghji indisponibili — reparti comunque profondi, poco impatto sulla fase offensiva"}, {"lato": "ospite", "testo": "Buona forma in Eredivisie (11 punti in 5 gare), ma 5 assenze concentrate nei reparti arretrati (Bos, Smal, Nieuwkoop, Moder, Beelen)"}, {"lato": "ospite", "testo": "Ueda a 6 gol stagionali resta l'unica vera minaccia offensiva, orfana però di equilibrio difensivo alle spalle"}], "stats": {"casa": {"possesso": 68, "passPrec": 90, "corner": 7, "falli": 9, "gialli": 1.5}, "ospite": {"possesso": 32, "passPrec": 76, "corner": 2.5, "falli": 13, "gialli": 2.3}, "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."}, "prob": {"casa": 0.82, "pareggio": 0.1, "ospite": 0.08}, "mercati": [{"label": "Over 3.5 gol", "quotaIndicativa": 1.5, "fonte": "media 888Sport/LeoVegas/Lottomatica, rif. web", "probVera": 0.6, "nota": "Barcellona ha vinto 5-0 l'ultima in campionato e il Feyenoord è orfano di 5 giocatori nei reparti arretrati: possibile partita ricca di gol, ma la quota è già abbastanza efficiente, poco valore aggiuntivo."}, {"label": "Gol/Gol Sì (BTTS Sì)", "quotaIndicativa": 1.65, "fonte": "stima propria da tendenza realizzativa recente, rif. web", "probVera": 0.55, "nota": "Il Feyenoord ha comunque segnato 3 gol nell'ultima uscita di campionato nonostante il 38% di possesso: capacità di trovare la rete anche in inferiorità, ma quota già efficiente."}, {"label": "1 (Barcellona vittoria)", "quotaIndicativa": 1.08, "fonte": "media Bet365/Snai/Lottomatica, rif. web", "probVera": 0.9, "nota": "Onestà: quota irrisoria, zero valore, da NON giocare in singola nonostante la vittoria sia altamente probabile."}], "combo": {"label": "1 (Barcellona) & Over 2.5 gol", "quotaIndicativa": 1.55, "fonte": "stima combinata", "probVera": 0.62, "nota": "Quota stimata per approssimazione, mercati correlati. Verificare sempre la quota combo reale prima di giocarla."}, "rischio": "Il Feyenoord, pur indebolito in difesa, ha mostrato capacità di segnare anche con poco possesso palla: rischio di sottovalutare la tenuta offensiva ospite in un eventuale contropiede, anche se la vittoria Barcellona non è in discussione."}, {"id": "liverpool-atletico-madrid", "match": "Liverpool - Atlético Madrid", "orario": "21:00", "competizione": "UEFA Champions League - Fase campionato, 1ª giornata", "stadio": "Anfield (Liverpool)", "contesto": "Il Liverpool arriva da un 2-0 all'Ipswich Town in Premier League, ma si presenta con ben 5 assenze: Chiesa ed Endo non idonei per la lista Champions, Ekitike fermo per un infortunio al tendine d'Achille, Bradley e Leoni al ginocchio. L'Atlético Madrid arriva invece da una pesante sconfitta 3-0 in casa dell'Athletic Bilbao in Liga, ma con una rosa quasi al completo: assenti solo Sorloth (coscia) e Ortiz (squalificato). Il mercato quota comunque i Reds ampiamente favoriti in casa.", "fattori": [{"lato": "casa", "testo": "Reduce dal 2-0 all'Ipswich in Premier League, ma 5 assenze (Chiesa e Endo non idonei, Ekitike infortunio al tendine d'Achille, Bradley e Leoni al ginocchio)"}, {"lato": "casa", "testo": "Fattore Anfield in notturna di Champions League resta un vantaggio enorme"}, {"lato": "ospite", "testo": "Pesante sconfitta 3-0 in casa dell'Athletic Bilbao nell'ultima di Liga, ma rosa quasi al completo (solo Sorloth e Ortiz out)"}, {"lato": "ospite", "testo": "Simeone specialista storico nel contenere le big anche in trasferte europee di alto livello"}], "stats": {"casa": {"possesso": 58, "passPrec": 86, "corner": 6, "falli": 10, "gialli": 1.8}, "ospite": {"possesso": 42, "passPrec": 82, "corner": 4, "falli": 13, "gialli": 2.6}, "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."}, "prob": {"casa": 0.56, "pareggio": 0.24, "ospite": 0.2}, "mercati": [{"label": "Doppia Chance 1X (Liverpool o Pareggio)", "quotaIndicativa": 1.28, "fonte": "media Bet365/Snai/Netbet, rif. web", "probVera": 0.8, "nota": "Il Liverpool, pur con 5 assenze, resta nettamente favorito ad Anfield contro un Atletico che arriva da un pesante 3-0 subito in Liga: sicurezza con margine di valore modesto."}, {"label": "Under 3.5 gol", "quotaIndicativa": 1.55, "fonte": "stima propria", "probVera": 0.6, "nota": "Simeone spesso gestisce con prudenza le trasferte europee di alto livello: partita che potrebbe restare sotto controllo nei gol totali nonostante il favore Liverpool. Quota già abbastanza efficiente."}, {"label": "1 (Liverpool vittoria)", "quotaIndicativa": 1.7, "fonte": "media Bet365/Snai/Netbet, rif. web", "probVera": 0.56, "nota": "Onestà: quota già abbastanza efficiente, poco margine di valore aggiuntivo rispetto alla Doppia Chance 1X."}], "combo": {"label": "Doppia Chance 1X (Liverpool o Pareggio) + Under 3.5 gol", "quotaIndicativa": 1.95, "fonte": "stima combinata", "probVera": 0.5, "nota": "Quota stimata per approssimazione, mercati non del tutto indipendenti. Verificare sempre la quota combo reale."}, "rischio": "Le 5 assenze del Liverpool (compreso l'attaccante Ekitike) indeboliscono la rosa più di quanto la quota 1.70 lasci intendere: rischio di sottovalutare un Atletico quasi al completo e specialista nelle trasferte europee di alto livello."}, {"id": "psg-slovan-bratislava", "match": "PSG - Slovan Bratislava", "orario": "21:00", "competizione": "UEFA Champions League - Fase campionato, 1ª giornata", "stadio": "Parc des Princes (Parigi)", "contesto": "Il PSG, campione in carica, vive una fase di appannamento sorprendente in campionato: 0 vittorie nelle ultime 4 di Ligue 1, 13° in classifica, con l'ultima sconfitta interna col Monaco (1-2). Lo Slovan Bratislava, campione di Slovacchia, è tecnicamente nettamente inferiore ma arriva da una buona striscia nei preliminari di Champions League (W-D-W-W-D-W), pur con 2 sconfitte nelle ultime 2 di campionato nazionale. Nessun detentore della Champions League ha perso la gara interna di apertura della stagione successiva nelle ultime 35 edizioni.", "fattori": [{"lato": "casa", "testo": "0 vittorie nelle ultime 4 di Ligue 1, 13° in classifica: crisi di risultati sorprendente per i campioni in carica, con Digne indisponibile"}, {"lato": "casa", "testo": "Nessun detentore della Champions League sconfitto in casa alla prima giornata della stagione successiva nelle ultime 35 edizioni"}, {"lato": "ospite", "testo": "Campione di Slovacchia ma tecnicamente nettamente inferiore; buona striscia nei preliminari di Champions (W-D-W-W-D-W) ma 2 sconfitte nelle ultime 2 di campionato nazionale"}], "stats": {"casa": {"possesso": 66, "passPrec": 88, "corner": 7, "falli": 10, "gialli": 1.8}, "ospite": {"possesso": 34, "passPrec": 75, "corner": 2, "falli": 13, "gialli": 2.5}, "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."}, "prob": {"casa": 0.9, "pareggio": 0.07, "ospite": 0.03}, "mercati": [{"label": "Over 2.5 gol", "quotaIndicativa": 1.35, "fonte": "stima propria, non verificata su bookmaker reale", "probVera": 0.72, "nota": "Slovan comunque nettamente inferiore: il PSG dovrebbe segnare più volte nonostante la crisi di risultati in campionato. Quota già abbastanza efficiente, poco valore aggiuntivo."}, {"label": "1 (PSG vittoria)", "quotaIndicativa": 1.04, "fonte": "media AdmiralBet/Starvegas/Bet365, rif. web", "probVera": 0.9, "nota": "Onestà: quota irrisoria, zero valore, da evitare in singola nonostante la vittoria sia scontata."}, {"label": "Under 4.5 gol", "quotaIndicativa": 1.75, "fonte": "stima da quota Over 4.5 ~2.10-2.25, rif. web", "probVera": 0.58, "nota": "Il PSG non è nel suo momento migliore in fase realizzativa (attacco opaco nelle ultime uscite di campionato): il mercato Over 4.5 potrebbe sopravvalutare l'entità della goleada. Value modesto."}], "combo": {"label": "1 (PSG) & Over 2.5 gol", "quotaIndicativa": 1.4, "fonte": "stima combinata", "probVera": 0.7, "nota": "Quota stimata per approssimazione. Verificare sempre la quota combo reale prima di giocarla."}, "rischio": "Il PSG arriva da una fase di appannamento offensivo in campionato: rischio di una partita più chiusa del previsto nonostante la superiorità tecnica netta sullo Slovan, che potrebbe chiudersi ordinatamente forte della sua buona striscia nei preliminari."}, {"id": "sporting-galatasaray", "match": "Sporting - Galatasaray", "orario": "21:00", "competizione": "UEFA Champions League - Fase campionato, 1ª giornata", "stadio": "Estádio José Alvalade (Lisbona)", "contesto": "Lo Sporting CP arriva su un filotto di 5 vittorie casalinghe consecutive (17 su 20 nelle ultime gare interne), con una media di 2.9 gol a partita e Luis Suarez capocannoniere con 8 reti. Il Galatasaray, reduce da un 3-2 esterno sul Basaksehir, perde però Victor Osimhen: il nigeriano, autore di 6 gol in 4 gare di Süper Lig quest'anno, si è infortunato al culmine di quella vittoria (6/09) e resterà fermo circa 3 settimane, saltando quindi questa trasferta europea. Una perdita pesante per il potenziale offensivo turco.", "fattori": [{"lato": "casa", "testo": "5 vittorie casalinghe consecutive, 17 vittorie nelle ultime 20 gare interne, media 2.9 gol a partita, Luis Suarez a 8 gol stagionali"}, {"lato": "ospite", "testo": "Osimhen (6 gol in 4 gare di Süper Lig) infortunato nella vittoria 3-2 col Basaksehir del 6/09: fuori circa 3 settimane, salta la trasferta di Lisbona"}, {"lato": "ospite", "testo": "Nonostante l'assenza, rosa con esperienza internazionale e 6 vittorie nelle ultime 10 gare complessive"}], "stats": {"casa": {"possesso": 61, "passPrec": 85, "corner": 6.5, "falli": 11, "gialli": 2}, "ospite": {"possesso": 39, "passPrec": 80, "corner": 3.5, "falli": 13, "gialli": 2.4}, "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."}, "prob": {"casa": 0.56, "pareggio": 0.2, "ospite": 0.24}, "mercati": [{"label": "1 (Sporting vittoria)", "quotaIndicativa": 1.83, "fonte": "quote raccolte, rif. web", "probVera": 0.56, "nota": "Osimhen out priva il Galatasaray del suo terminale offensivo più prolifico: value modesto ma reale, il mercato potrebbe non scontare del tutto l'impatto dell'assenza."}, {"label": "Gol/Gol No (almeno una a secco)", "quotaIndicativa": 2.25, "fonte": "stima da quota BTTS Sì 1.62, rif. web", "probVera": 0.46, "nota": "Senza Osimhen il potenziale offensivo turco cala sensibilmente: possibile partita con una delle due a secco, in particolare il Galatasaray."}, {"label": "Doppia Chance 1X (Sporting o Pareggio)", "quotaIndicativa": 1.3, "fonte": "stima da quote 1X2, rif. web", "probVera": 0.72, "nota": "Sicurezza elevata vista la striscia interna dello Sporting, ma poco margine di valore aggiuntivo."}], "combo": {"label": "1 (Sporting) & Gol/Gol No", "quotaIndicativa": 3.6, "fonte": "stima combinata", "probVera": 0.3, "nota": "Quota stimata per approssimazione, mercati correlati (assenza Osimhen). Verificare sempre la quota combo reale."}, "rischio": "Il Galatasaray resta comunque una squadra internazionale esperta (6 vittorie nelle ultime 10) e potrebbe trovare altre soluzioni offensive senza Osimhen: non sottovalutare la resilienza turca in trasferta europea."}, {"id": "stuttgart-viking", "match": "Stoccarda - Viking", "orario": "18:45", "competizione": "UEFA Champions League - Fase campionato, 1ª giornata", "stadio": "MHPArena (Stoccarda)", "contesto": "Lo Stoccarda arriva da un netto 4-1 al Colonia nell'ultimo turno di Bundesliga, mostrando buona verve realizzativa in casa. Il Viking FK, al suo esordio assoluto in questa fase della Champions League, ha una forma solida in Eliteserien (6 vittorie, 2 pareggi, 2 sconfitte nelle ultime 10), reduce da un pareggio 1-1 in trasferta col Sandefjord. Nessuna assenza rilevante confermata per nessuna delle due squadre dalle fonti consultate.", "fattori": [{"lato": "casa", "testo": "Vittoria per 4-1 sul Colonia nell'ultimo turno di Bundesliga, buona vena realizzativa in casa"}, {"lato": "ospite", "testo": "Prima storica partecipazione a questa fase della Champions League: pressione ambientale da gestire in una big-night europea"}, {"lato": "ospite", "testo": "Forma solida in Eliteserien (6V-2N-2P nelle ultime 10), pareggio 1-1 nell'ultima trasferta col Sandefjord"}, {"lato": "neutro", "testo": "Nessuna assenza rilevante confermata da nessuna delle due fonti consultate: prudenza nella stima"}], "stats": {"casa": {"possesso": 60, "passPrec": 84, "corner": 6, "falli": 11, "gialli": 2}, "ospite": {"possesso": 40, "passPrec": 78, "corner": 3, "falli": 12, "gialli": 2.2}, "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."}, "prob": {"casa": 0.68, "pareggio": 0.2, "ospite": 0.12}, "mercati": [{"label": "1 (Stuttgart vittoria)", "quotaIndicativa": 1.45, "fonte": "stima propria, non verificata su bookmaker reale", "probVera": 0.7, "nota": "Prima storica presenza del Viking in questa fase, Stoccarda in gran forma realizzativa (4-1 al Colonia): quota NON verificata direttamente su un bookmaker reale, verificarla prima di giocare."}, {"label": "Over 2.5 gol", "quotaIndicativa": 1.55, "fonte": "stima propria", "probVera": 0.62, "nota": "Buon potenziale offensivo dei padroni di casa reduci dal poker al Colonia. Quota già ragionevolmente efficiente."}, {"label": "Doppia Chance 1X (Stuttgart o Pareggio)", "quotaIndicativa": 1.2, "fonte": "stima da 1X2", "probVera": 0.85, "nota": "Sicurezza massima, poco payout: utile solo come gamba di rinforzo in multipla."}], "combo": {"label": "1 (Stuttgart) & Over 2.5 gol", "quotaIndicativa": 1.85, "fonte": "stima combinata", "probVera": 0.56, "nota": "Quota stimata per approssimazione, non verificata su un bookmaker reale. Verificare sempre prima di giocarla."}, "rischio": "Il Viking arriva da una striscia positiva in campionato norvegese e alla prima storica presenza in questa fase potrebbe sorprendere emotivamente, giocando senza pressione: attenzione a non sottovalutare l'avversario solo per il gap di categoria."}], "multiple": {"sicura": {"legs": [{"label": "Doppia Chance 1X (Liverpool o Pareggio)", "match": "Liverpool - Atlético Madrid", "quotaIndicativa": 1.28, "probVera": 0.8}, {"label": "1 (Stuttgart vittoria)", "match": "Stoccarda - Viking", "quotaIndicativa": 1.45, "probVera": 0.7}], "quotaTotale": 1.86, "probVera": 0.56, "nota": "Le due gambe con la probabilità reale più alta della giornata tra i mercati con valore non negativo, da partite diverse: priorità alla sicurezza, non al payout."}, "bilanciata": {"legs": [{"label": "Gol/Gol Sì (BTTS Sì)", "match": "Napoli - Arsenal", "quotaIndicativa": 1.88, "probVera": 0.55}, {"label": "Gol/Gol No (almeno una a secco)", "match": "Sporting - Galatasaray", "quotaIndicativa": 2.25, "probVera": 0.46}], "quotaTotale": 4.23, "probVera": 0.253, "nota": "Le due gambe con il miglior edge stimato della giornata (probabilità reale vs quota), da partite diverse: quota combinata indicativa ~4.23, probabilità reale combinata ~25%."}, "azzardata": {"legs": [{"label": "Doppia Chance 1X (Napoli o Pareggio)", "match": "Napoli - Arsenal", "quotaIndicativa": 2.05, "probVera": 0.5}, {"label": "Under 4.5 gol", "match": "PSG - Slovan Bratislava", "quotaIndicativa": 1.75, "probVera": 0.58}, {"label": "1 (Sporting vittoria)", "match": "Sporting - Galatasaray", "quotaIndicativa": 1.83, "probVera": 0.56}], "quotaTotale": 6.57, "probVera": 0.162, "nota": "Tre gambe da tre partite diverse, tutte con valore individuale positivo: quota indicativa ~6.57, probabilità reale combinata ~16%. Nessuna gamba qui coincide con quelle usate nelle altre due multiple di oggi né con la settimanale in corso."}}, "upcoming": [{"competizione": "UEFA Champions League", "data": "2026-09-10", "match": "Fenerbahçe - Roma", "nota": "In realtà Europa League, 1ª giornata, ore 18:45 — vedi candidates per approfondimento value"}, {"competizione": "UEFA Champions League", "data": "2026-09-10", "match": "Como - RB Lipsia", "nota": "Champions League, 1ª giornata fase campionato, ore 21:00 — esordio assoluto del Como in Champions League"}, {"competizione": "UEFA Champions League", "data": "2026-09-10", "match": "PSV Eindhoven - Shakhtar Donetsk", "nota": "Champions League, 1ª giornata fase campionato, ore 18:45"}, {"competizione": "UEFA Champions League", "data": "2026-09-10", "match": "Bayern Monaco - Bodø/Glimt", "nota": "Champions League, 1ª giornata fase campionato, ore 21:00"}, {"competizione": "UEFA Champions League", "data": "2026-09-10", "match": "Manchester United - Sabah", "nota": "Champions League, 1ª giornata fase campionato, ore 21:00"}, {"competizione": "UEFA Champions League", "data": "2026-09-10", "match": "Slavia Praga - Lens", "nota": "Champions League, 1ª giornata fase campionato, ore 21:00"}, {"competizione": "Serie A", "data": "2026-09-11", "match": "Venezia - Fiorentina", "nota": "4ª giornata Serie A, ore 20:45"}, {"competizione": "Serie A", "data": "2026-09-12", "match": "Genoa - Frosinone", "nota": "4ª giornata Serie A, ore 15:00"}, {"competizione": "Serie A", "data": "2026-09-12", "match": "Lazio - Milan", "nota": "4ª giornata Serie A, ore 18:00"}, {"competizione": "Serie A", "data": "2026-09-12", "match": "Atalanta - Cagliari", "nota": "4ª giornata Serie A, ore 20:45"}, {"competizione": "Serie A", "data": "2026-09-13", "match": "Lecce - Monza", "nota": "4ª giornata Serie A, ore 15:00"}, {"competizione": "Serie A", "data": "2026-09-13", "match": "Napoli - Bologna", "nota": "4ª giornata Serie A, ore 18:00"}, {"competizione": "Serie A", "data": "2026-09-13", "match": "Sassuolo - Juventus", "nota": "4ª giornata Serie A, ore 20:45"}, {"competizione": "Serie A", "data": "2026-09-14", "match": "Como - Parma", "nota": "4ª giornata Serie A, ore 18:30"}, {"competizione": "Serie A", "data": "2026-09-14", "match": "Torino - Roma", "nota": "4ª giornata Serie A, ore 18:30"}, {"competizione": "Serie A", "data": "2026-09-14", "match": "Inter - Udinese", "nota": "4ª giornata Serie A, ore 20:45 — chiude il turno"}, {"competizione": "UEFA Europa League", "data": "2026-09-16", "match": "Milan - Benfica", "nota": "Europa League, 1ª giornata fase campionato, ore 21:00"}, {"competizione": "UEFA Europa League", "data": "2026-09-17", "match": "Juventus - NEC Nijmegen", "nota": "Europa League, 1ª giornata fase campionato, ore 21:00"}], "results": [{"date": "2026-09-08", "matches": [{"match": "Real Madrid - Inter", "risultato": "2-1", "nota": "Mbappé (14') e Valverde (23') decidono, Carlos Augusto (77') accorcia. Confermato FT da Fanpage e Bolavip.", "esiti": [{"label": "Doppia Chance X2 (Inter o Pareggio)", "esito": "lost"}, {"label": "Gol/Gol Sì (BTTS Sì)", "esito": "won"}, {"label": "1 (Real Madrid vittoria)", "esito": "won"}, {"label": "Doppia Chance X2 (Inter o Pareggio) + Gol/Gol Sì", "esito": "lost"}]}, {"match": "AEK Atene - LASK", "risultato": "1-0", "nota": "Gol di Marin (21', punizione diretta). Confermato FT da Infobae e VAVEL.", "esiti": [{"label": "1 (AEK Atene vittoria)", "esito": "won"}, {"label": "Doppia Chance 1X (AEK o Pareggio)", "esito": "won"}, {"label": "1 (AEK) & Under 3.5 gol", "esito": "won"}]}, {"match": "Club Brugge - Aston Villa", "risultato": "2-3", "nota": "Villa ribalta 2 volte: McGinn (11'), Buendia (22'), Jackson (43') vs Vetlesen (19') e Tresoldi (61' rig.). Confermato FT da Sky Sports e VAVEL.", "esiti": [{"label": "1 (Club Brugge vittoria)", "esito": "lost"}, {"label": "Under 2.5 gol", "esito": "lost"}, {"label": "1 (Brugge) & Under 2.5 gol", "esito": "lost"}]}, {"match": "Borussia Dortmund - Villarreal", "risultato": "4-0", "nota": "Poker Dortmund dopo il rosso a Foyth: doppietta Guirassy (45+2', 54' rig.), Adeyemi (58'), Svensson. Confermato FT da Yahoo Sports e Soccerway (fonti indipendenti concordi).", "esiti": [{"label": "Over 2.5 gol", "esito": "won"}, {"label": "Gol/Gol Sì (BTTS Sì)", "esito": "lost"}, {"label": "1 (Dortmund) & Over 2.5 gol", "esito": "won"}]}, {"match": "Porto - Manchester City", "risultato": "0-2", "nota": "Doppietta Haaland (47', 90+'). Confermato FT da 101GreatGoals.", "esiti": [{"label": "2 (Manchester City vittoria)", "esito": "won"}, {"label": "2 (City) & Over 2.5 gol", "esito": "lost"}]}, {"match": "Lille - Real Betis", "risultato": "2-3", "nota": "Betis rimonta 2 volte: Bartra (33', 49') e Parrott (53') ribaltano Ueda (10') e Alexsandro (36'). Confermato FT da VAVEL, El Desmarque, La Tercera.", "esiti": [{"label": "Doppia Chance 1X (Lille o Pareggio)", "esito": "lost"}, {"label": "1 (Lille vittoria)", "esito": "lost"}, {"label": "X2 (Betis o Pareggio) & Under 3.5 gol", "esito": "lost"}]}]}, {"date": "2026-09-07", "matches": [{"match": "Cagliari - Lecce", "risultato": "1-0", "nota": "Gol di Maldini al 29' (colpo di testa su corner di Fazzini). Confermato FT da Sky Sport, Virgilio, Leccenews24, LecceOggi, Lecceprima.", "esiti": [{"label": "Under 2.5 gol + Gol/Gol No", "esito": "won"}, {"label": "Under 2.5 gol", "esito": "won"}, {"label": "Gol/Gol No (almeno una a secco)", "esito": "won"}, {"label": "Doppia Chance 1X (Cagliari o Pareggio)", "esito": "won"}]}, {"match": "Udinese - Lazio", "risultato": "1-2", "nota": "Karlstrom (49') porta avanti l'Udinese, rimonta Lazio con Frattesi e Gudmundsson. Lazio a punteggio pieno (9 punti). Confermato FT da Virgilio, Calciomercato.it, Notiziariocalcio, Adnkronos.", "esiti": [{"label": "Doppia Chance 2X (Lazio o Pareggio) + Gol/Gol Sì", "esito": "won"}, {"label": "Gol/Gol Sì (BTTS Sì)", "esito": "won"}, {"label": "Doppia Chance 2X (Lazio o Pareggio)", "esito": "won"}, {"label": "2 (Lazio vittoria)", "esito": "won"}]}]}, {"date": "2026-09-06", "matches": [{"match": "Frosinone - Venezia", "risultato": "3-2", "nota": "Doppietta Raimondo (21', 39') e gol di Kvernadze (88'), Frosinone regge alla rimonta di Yeboah e Sagrado.", "esiti": [{"label": "1 (Frosinone vittoria)", "esito": "won"}, {"label": "1X (Frosinone o Pareggio)", "esito": "won"}, {"label": "Under 2.5 gol", "esito": "lost"}, {"label": "Under 2.5 gol + Gol/Gol No", "esito": "lost"}]}, {"match": "Parma - Monza", "risultato": "1-1", "nota": "Gol di Robinson (38', Monza) e Lontani (60', Parma).", "esiti": [{"label": "1 (Parma vittoria)", "esito": "lost"}, {"label": "Under 2.5 gol", "esito": "won"}, {"label": "Gol/Gol No (almeno una a secco)", "esito": "lost"}, {"label": "X (Pareggio) + Under 2.5 gol", "esito": "won"}]}, {"match": "Bologna - Sassuolo", "risultato": "2-2", "nota": "Doig (19') porta avanti il Sassuolo, Piccoli pareggia a inizio ripresa, Adzic riporta avanti il Sassuolo, Dovbyk pareggia al 90+1'.", "esiti": [{"label": "1 (Bologna vittoria)", "esito": "lost"}, {"label": "Doppia Chance X2 (Sassuolo o Pareggio)", "esito": "won"}, {"label": "Under 2.5 gol", "esito": "lost"}, {"label": "Doppia Chance X2 + Under 2.5 gol", "esito": "lost"}]}, {"match": "Juventus - Milan", "risultato": "1-1", "nota": "Gol di Cisse (Milan) e pareggio di Gatti in pieno recupero.", "esiti": [{"label": "1 (Juventus vittoria)", "esito": "lost"}, {"label": "Doppia Chance X2 (Milan o Pareggio)", "esito": "won"}, {"label": "2 (Milan vittoria)", "esito": "lost"}, {"label": "Doppia Chance X2 + Under 2.5 gol", "esito": "won"}, {"label": "Under 2.5 gol", "esito": "won"}]}]}, {"date": "2026-09-05", "matches": [{"match": "Fiorentina - Torino", "risultato": "1-2", "nota": "Torino ribalta nella ripresa: gol di Mandragora e Adams dopo il vantaggio viola.", "esiti": [{"label": "1 (Fiorentina vittoria)", "esito": "lost"}, {"label": "Under 2.5 gol", "esito": "lost"}, {"label": "X (Pareggio)", "esito": "lost"}, {"label": "Multigol 1-3 gol", "esito": "won"}]}, {"match": "Inter - Napoli", "risultato": "3-2", "nota": "Napoli avanti 0-2, Inter rimonta con doppietta di Lautaro Martinez, gol decisivo al 91'.", "esiti": [{"label": "1 (Inter vittoria)", "esito": "won"}, {"label": "X (Pareggio)", "esito": "lost"}, {"label": "Gol/Gol (BTTS Sì)", "esito": "won"}, {"label": "Multigol 2-4 gol", "esito": "lost"}]}, {"match": "Roma - Atalanta", "risultato": "2-1", "nota": "Atalanta avanti con Ederson, Roma la ribalta nel finale con Hermoso e Soulé.", "esiti": [{"label": "1 (Roma vittoria)", "esito": "won"}, {"label": "Under 2.5 gol", "esito": "lost"}, {"label": "Roma a Zero (clean sheet)", "esito": "lost"}, {"label": "1 + Under 3.5 gol", "esito": "won"}]}]}, {"date": "2026-09-04", "matches": [{"match": "Genoa - Como", "risultato": "1-4", "nota": "Como vince in rimonta. Partita non coperta da un'analisi giornaliera strutturata; esito ricostruito dalla giocata già confermata.", "esiti": [{"label": "2 (Como) + Under 2.5", "esito": "lost"}]}]}]}}
+{
+  "updatedAt": "2026-09-09T05:17:45Z",
+  "daily": {
+    "date": "2026-09-09",
+    "generatedAt": "2026-09-09T05:30:00Z",
+    "dismissedKeys": [],
+    "matches": [
+      {
+        "id": "napoli-arsenal",
+        "match": "Napoli - Arsenal",
+        "orario": "21:00",
+        "competizione": "UEFA Champions League - Fase campionato, 1ª giornata",
+        "stadio": "Stadio Diego Armando Maradona (Napoli)",
+        "contesto": "Esordio nella nuova fase campionato di Champions League. Il Napoli arriva da un momento difficile: 2 sconfitte consecutive in campionato (0-2 col Como, poi 2-3 rimontato dall'Inter), con 5 gol subiti nelle ultime 2 gare e McTominay indisponibile per almeno un mese. L'Arsenal, al contrario, è nel suo miglior momento storico recente: reduce dalla finale di Champions League 2025/26 (persa contro il PSG) e dalla vittoria della Premier League, con un solo gol subito in tutta la stagione fin qui. Oggi però i Gunners si presentano privi di Saliba, il centrale titolare, con anche il vice Mosquera in dubbio dopo la gara col Chelsea: un indebolimento reale della fase difensiva. Partite di questo tipo su questo campionato: 6 partite totali per la 1ª giornata di fase campionato Champions League oggi (Napoli-Arsenal, Barcellona-Feyenoord, Stoccarda-Viking, Liverpool-Atletico Madrid, PSG-Slovan Bratislava, Sporting-Galatasaray), confermate su 2 fonti indipendenti.",
+        "fattori": [
+          {
+            "lato": "casa",
+            "testo": "2 sconfitte consecutive in campionato (Como, Inter) con 5 gol subiti nelle ultime 2 gare; McTominay indisponibile per almeno un mese"
+          },
+          {
+            "lato": "casa",
+            "testo": "Fattore Maradona in notturna europea, storicamente ostico per chiunque"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Solo 1 gol subito in stagione, reduce da finale di Champions League 2025/26 e da vittoria in Premier League"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Assenze pesanti al centro della difesa: Saliba fuori, Mosquera in dubbio dopo la gara col Chelsea, Timber probabile solo dalla panchina"
+          },
+          {
+            "lato": "neutro",
+            "testo": "Il mercato quota l'Arsenal ampiamente favorito (2 a 1.70) più sulla base della forma generale che sul reale indebolimento difensivo di stasera"
+          }
+        ],
+        "stats": {
+          "casa": {
+            "possesso": 48,
+            "passPrec": 82,
+            "corner": 5,
+            "falli": 12,
+            "gialli": 2.2
+          },
+          "ospite": {
+            "possesso": 52,
+            "passPrec": 87,
+            "corner": 5.5,
+            "falli": 11,
+            "gialli": 1.8
+          },
+          "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."
+        },
+        "prob": {
+          "casa": 0.21,
+          "pareggio": 0.26,
+          "ospite": 0.53
+        },
+        "mercati": [
+          {
+            "label": "Doppia Chance 1X (Napoli o Pareggio)",
+            "quotaIndicativa": 2.05,
+            "fonte": "media Bet365/Snai/Netbet, rif. web",
+            "probVera": 0.5,
+            "nota": "Arsenal orfano di Saliba e con Mosquera in dubbio, entrambi i centrali titolari a rischio contro un Napoli in cerca di riscatto in casa: value modesto ma presente."
+          },
+          {
+            "label": "Gol/Gol Sì (BTTS Sì)",
+            "quotaIndicativa": 1.88,
+            "fonte": "quote promozionali raccolte, rif. web",
+            "probVera": 0.55,
+            "nota": "Il Napoli ha sempre segnato nelle prime uscite stagionali; la difesa Arsenal, seppur solida nei numeri, gioca stasera con centrali di riserva."
+          },
+          {
+            "label": "1 (Napoli vittoria)",
+            "quotaIndicativa": 5,
+            "fonte": "media Bet365/Snai/Netbet, rif. web",
+            "probVera": 0.2,
+            "nota": "Onestà: quota già in linea con la forza reale delle due squadre nonostante le assenze arsenaline, l'Arsenal resta nettamente favorito. Nessun valore evidente qui."
+          }
+        ],
+        "combo": {
+          "label": "Doppia Chance 1X (Napoli o Pareggio) + Gol/Gol Sì",
+          "quotaIndicativa": 3.85,
+          "fonte": "stima combinata",
+          "probVera": 0.3,
+          "nota": "Combina le due migliori value della sfida; quota stimata per approssimazione, mercati non del tutto indipendenti. Verificare la quota combo reale prima di giocarla."
+        },
+        "rischio": "L'Arsenal, pur privo di Saliba, resta la squadra più forte tecnicamente e ha subito un solo gol in stagione: se i centrali di riserva reggono l'urto, può vincere senza affanni anche a Fuorigrotta. Rischio opposto se il Napoli, spinto dall'ambiente, sfrutta subito le incertezze difensive ospiti."
+      },
+      {
+        "id": "barcelona-feyenoord",
+        "match": "Barcellona - Feyenoord",
+        "orario": "18:45",
+        "competizione": "UEFA Champions League - Fase campionato, 1ª giornata",
+        "stadio": "Camp Nou (Barcellona)",
+        "contesto": "Il Barcellona arriva da un momento di forma straordinario: 4 vittorie consecutive in Liga, l'ultima un netto 5-0 in trasferta al Valencia (73% di possesso, 10 tiri in porta). Il Feyenoord ha un buon avvio in Eredivisie (11 punti in 5 gare, ultima vittoria 3-1 al NEC Nijmegen nonostante appena il 38% di possesso), ma si presenta a Barcellona con 5 assenze concentrate nei reparti arretrati (Bos, Smal, Nieuwkoop, Moder, Beelen). Il Barcellona è a sua volta privo di Eric Garcia (squalificato), de Jong e Bardghji, ma sono assenze che toccano meno la fase offensiva dei catalani.",
+        "fattori": [
+          {
+            "lato": "casa",
+            "testo": "4 vittorie consecutive in Liga, ultima un netto 5-0 al Valencia in trasferta; Raphinha, Fermin Lopez e Yamal in gran forma realizzativa"
+          },
+          {
+            "lato": "casa",
+            "testo": "Assenze: Eric Garcia squalificato, de Jong e Bardghji indisponibili — reparti comunque profondi, poco impatto sulla fase offensiva"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Buona forma in Eredivisie (11 punti in 5 gare), ma 5 assenze concentrate nei reparti arretrati (Bos, Smal, Nieuwkoop, Moder, Beelen)"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Ueda a 6 gol stagionali resta l'unica vera minaccia offensiva, orfana però di equilibrio difensivo alle spalle"
+          }
+        ],
+        "stats": {
+          "casa": {
+            "possesso": 68,
+            "passPrec": 90,
+            "corner": 7,
+            "falli": 9,
+            "gialli": 1.5
+          },
+          "ospite": {
+            "possesso": 32,
+            "passPrec": 76,
+            "corner": 2.5,
+            "falli": 13,
+            "gialli": 2.3
+          },
+          "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."
+        },
+        "prob": {
+          "casa": 0.82,
+          "pareggio": 0.1,
+          "ospite": 0.08
+        },
+        "mercati": [
+          {
+            "label": "Over 3.5 gol",
+            "quotaIndicativa": 1.5,
+            "fonte": "media 888Sport/LeoVegas/Lottomatica, rif. web",
+            "probVera": 0.6,
+            "nota": "Barcellona ha vinto 5-0 l'ultima in campionato e il Feyenoord è orfano di 5 giocatori nei reparti arretrati: possibile partita ricca di gol, ma la quota è già abbastanza efficiente, poco valore aggiuntivo."
+          },
+          {
+            "label": "Gol/Gol Sì (BTTS Sì)",
+            "quotaIndicativa": 1.65,
+            "fonte": "stima propria da tendenza realizzativa recente, rif. web",
+            "probVera": 0.55,
+            "nota": "Il Feyenoord ha comunque segnato 3 gol nell'ultima uscita di campionato nonostante il 38% di possesso: capacità di trovare la rete anche in inferiorità, ma quota già efficiente."
+          },
+          {
+            "label": "1 (Barcellona vittoria)",
+            "quotaIndicativa": 1.08,
+            "fonte": "media Bet365/Snai/Lottomatica, rif. web",
+            "probVera": 0.9,
+            "nota": "Onestà: quota irrisoria, zero valore, da NON giocare in singola nonostante la vittoria sia altamente probabile."
+          }
+        ],
+        "combo": {
+          "label": "1 (Barcellona) & Over 2.5 gol",
+          "quotaIndicativa": 1.55,
+          "fonte": "stima combinata",
+          "probVera": 0.62,
+          "nota": "Quota stimata per approssimazione, mercati correlati. Verificare sempre la quota combo reale prima di giocarla."
+        },
+        "rischio": "Il Feyenoord, pur indebolito in difesa, ha mostrato capacità di segnare anche con poco possesso palla: rischio di sottovalutare la tenuta offensiva ospite in un eventuale contropiede, anche se la vittoria Barcellona non è in discussione."
+      },
+      {
+        "id": "liverpool-atletico-madrid",
+        "match": "Liverpool - Atlético Madrid",
+        "orario": "21:00",
+        "competizione": "UEFA Champions League - Fase campionato, 1ª giornata",
+        "stadio": "Anfield (Liverpool)",
+        "contesto": "Il Liverpool arriva da un 2-0 all'Ipswich Town in Premier League, ma si presenta con ben 5 assenze: Chiesa ed Endo non idonei per la lista Champions, Ekitike fermo per un infortunio al tendine d'Achille, Bradley e Leoni al ginocchio. L'Atlético Madrid arriva invece da una pesante sconfitta 3-0 in casa dell'Athletic Bilbao in Liga, ma con una rosa quasi al completo: assenti solo Sorloth (coscia) e Ortiz (squalificato). Il mercato quota comunque i Reds ampiamente favoriti in casa.",
+        "fattori": [
+          {
+            "lato": "casa",
+            "testo": "Reduce dal 2-0 all'Ipswich in Premier League, ma 5 assenze (Chiesa e Endo non idonei, Ekitike infortunio al tendine d'Achille, Bradley e Leoni al ginocchio)"
+          },
+          {
+            "lato": "casa",
+            "testo": "Fattore Anfield in notturna di Champions League resta un vantaggio enorme"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Pesante sconfitta 3-0 in casa dell'Athletic Bilbao nell'ultima di Liga, ma rosa quasi al completo (solo Sorloth e Ortiz out)"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Simeone specialista storico nel contenere le big anche in trasferte europee di alto livello"
+          }
+        ],
+        "stats": {
+          "casa": {
+            "possesso": 58,
+            "passPrec": 86,
+            "corner": 6,
+            "falli": 10,
+            "gialli": 1.8
+          },
+          "ospite": {
+            "possesso": 42,
+            "passPrec": 82,
+            "corner": 4,
+            "falli": 13,
+            "gialli": 2.6
+          },
+          "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."
+        },
+        "prob": {
+          "casa": 0.56,
+          "pareggio": 0.24,
+          "ospite": 0.2
+        },
+        "mercati": [
+          {
+            "label": "Doppia Chance 1X (Liverpool o Pareggio)",
+            "quotaIndicativa": 1.28,
+            "fonte": "media Bet365/Snai/Netbet, rif. web",
+            "probVera": 0.8,
+            "nota": "Il Liverpool, pur con 5 assenze, resta nettamente favorito ad Anfield contro un Atletico che arriva da un pesante 3-0 subito in Liga: sicurezza con margine di valore modesto."
+          },
+          {
+            "label": "Under 3.5 gol",
+            "quotaIndicativa": 1.55,
+            "fonte": "stima propria",
+            "probVera": 0.6,
+            "nota": "Simeone spesso gestisce con prudenza le trasferte europee di alto livello: partita che potrebbe restare sotto controllo nei gol totali nonostante il favore Liverpool. Quota già abbastanza efficiente."
+          },
+          {
+            "label": "1 (Liverpool vittoria)",
+            "quotaIndicativa": 1.7,
+            "fonte": "media Bet365/Snai/Netbet, rif. web",
+            "probVera": 0.56,
+            "nota": "Onestà: quota già abbastanza efficiente, poco margine di valore aggiuntivo rispetto alla Doppia Chance 1X."
+          }
+        ],
+        "combo": {
+          "label": "Doppia Chance 1X (Liverpool o Pareggio) + Under 3.5 gol",
+          "quotaIndicativa": 1.95,
+          "fonte": "stima combinata",
+          "probVera": 0.5,
+          "nota": "Quota stimata per approssimazione, mercati non del tutto indipendenti. Verificare sempre la quota combo reale."
+        },
+        "rischio": "Le 5 assenze del Liverpool (compreso l'attaccante Ekitike) indeboliscono la rosa più di quanto la quota 1.70 lasci intendere: rischio di sottovalutare un Atletico quasi al completo e specialista nelle trasferte europee di alto livello."
+      },
+      {
+        "id": "psg-slovan-bratislava",
+        "match": "PSG - Slovan Bratislava",
+        "orario": "21:00",
+        "competizione": "UEFA Champions League - Fase campionato, 1ª giornata",
+        "stadio": "Parc des Princes (Parigi)",
+        "contesto": "Il PSG, campione in carica, vive una fase di appannamento sorprendente in campionato: 0 vittorie nelle ultime 4 di Ligue 1, 13° in classifica, con l'ultima sconfitta interna col Monaco (1-2). Lo Slovan Bratislava, campione di Slovacchia, è tecnicamente nettamente inferiore ma arriva da una buona striscia nei preliminari di Champions League (W-D-W-W-D-W), pur con 2 sconfitte nelle ultime 2 di campionato nazionale. Nessun detentore della Champions League ha perso la gara interna di apertura della stagione successiva nelle ultime 35 edizioni.",
+        "fattori": [
+          {
+            "lato": "casa",
+            "testo": "0 vittorie nelle ultime 4 di Ligue 1, 13° in classifica: crisi di risultati sorprendente per i campioni in carica, con Digne indisponibile"
+          },
+          {
+            "lato": "casa",
+            "testo": "Nessun detentore della Champions League sconfitto in casa alla prima giornata della stagione successiva nelle ultime 35 edizioni"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Campione di Slovacchia ma tecnicamente nettamente inferiore; buona striscia nei preliminari di Champions (W-D-W-W-D-W) ma 2 sconfitte nelle ultime 2 di campionato nazionale"
+          }
+        ],
+        "stats": {
+          "casa": {
+            "possesso": 66,
+            "passPrec": 88,
+            "corner": 7,
+            "falli": 10,
+            "gialli": 1.8
+          },
+          "ospite": {
+            "possesso": 34,
+            "passPrec": 75,
+            "corner": 2,
+            "falli": 13,
+            "gialli": 2.5
+          },
+          "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."
+        },
+        "prob": {
+          "casa": 0.9,
+          "pareggio": 0.07,
+          "ospite": 0.03
+        },
+        "mercati": [
+          {
+            "label": "Over 2.5 gol",
+            "quotaIndicativa": 1.35,
+            "fonte": "stima propria, non verificata su bookmaker reale",
+            "probVera": 0.72,
+            "nota": "Slovan comunque nettamente inferiore: il PSG dovrebbe segnare più volte nonostante la crisi di risultati in campionato. Quota già abbastanza efficiente, poco valore aggiuntivo."
+          },
+          {
+            "label": "1 (PSG vittoria)",
+            "quotaIndicativa": 1.04,
+            "fonte": "media AdmiralBet/Starvegas/Bet365, rif. web",
+            "probVera": 0.9,
+            "nota": "Onestà: quota irrisoria, zero valore, da evitare in singola nonostante la vittoria sia scontata."
+          },
+          {
+            "label": "Under 4.5 gol",
+            "quotaIndicativa": 1.75,
+            "fonte": "stima da quota Over 4.5 ~2.10-2.25, rif. web",
+            "probVera": 0.58,
+            "nota": "Il PSG non è nel suo momento migliore in fase realizzativa (attacco opaco nelle ultime uscite di campionato): il mercato Over 4.5 potrebbe sopravvalutare l'entità della goleada. Value modesto."
+          }
+        ],
+        "combo": {
+          "label": "1 (PSG) & Over 2.5 gol",
+          "quotaIndicativa": 1.4,
+          "fonte": "stima combinata",
+          "probVera": 0.7,
+          "nota": "Quota stimata per approssimazione. Verificare sempre la quota combo reale prima di giocarla."
+        },
+        "rischio": "Il PSG arriva da una fase di appannamento offensivo in campionato: rischio di una partita più chiusa del previsto nonostante la superiorità tecnica netta sullo Slovan, che potrebbe chiudersi ordinatamente forte della sua buona striscia nei preliminari."
+      },
+      {
+        "id": "sporting-galatasaray",
+        "match": "Sporting - Galatasaray",
+        "orario": "21:00",
+        "competizione": "UEFA Champions League - Fase campionato, 1ª giornata",
+        "stadio": "Estádio José Alvalade (Lisbona)",
+        "contesto": "Lo Sporting CP arriva su un filotto di 5 vittorie casalinghe consecutive (17 su 20 nelle ultime gare interne), con una media di 2.9 gol a partita e Luis Suarez capocannoniere con 8 reti. Il Galatasaray, reduce da un 3-2 esterno sul Basaksehir, perde però Victor Osimhen: il nigeriano, autore di 6 gol in 4 gare di Süper Lig quest'anno, si è infortunato al culmine di quella vittoria (6/09) e resterà fermo circa 3 settimane, saltando quindi questa trasferta europea. Una perdita pesante per il potenziale offensivo turco.",
+        "fattori": [
+          {
+            "lato": "casa",
+            "testo": "5 vittorie casalinghe consecutive, 17 vittorie nelle ultime 20 gare interne, media 2.9 gol a partita, Luis Suarez a 8 gol stagionali"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Osimhen (6 gol in 4 gare di Süper Lig) infortunato nella vittoria 3-2 col Basaksehir del 6/09: fuori circa 3 settimane, salta la trasferta di Lisbona"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Nonostante l'assenza, rosa con esperienza internazionale e 6 vittorie nelle ultime 10 gare complessive"
+          }
+        ],
+        "stats": {
+          "casa": {
+            "possesso": 61,
+            "passPrec": 85,
+            "corner": 6.5,
+            "falli": 11,
+            "gialli": 2
+          },
+          "ospite": {
+            "possesso": 39,
+            "passPrec": 80,
+            "corner": 3.5,
+            "falli": 13,
+            "gialli": 2.4
+          },
+          "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."
+        },
+        "prob": {
+          "casa": 0.56,
+          "pareggio": 0.2,
+          "ospite": 0.24
+        },
+        "mercati": [
+          {
+            "label": "1 (Sporting vittoria)",
+            "quotaIndicativa": 1.83,
+            "fonte": "quote raccolte, rif. web",
+            "probVera": 0.56,
+            "nota": "Osimhen out priva il Galatasaray del suo terminale offensivo più prolifico: value modesto ma reale, il mercato potrebbe non scontare del tutto l'impatto dell'assenza."
+          },
+          {
+            "label": "Gol/Gol No (almeno una a secco)",
+            "quotaIndicativa": 2.25,
+            "fonte": "stima da quota BTTS Sì 1.62, rif. web",
+            "probVera": 0.46,
+            "nota": "Senza Osimhen il potenziale offensivo turco cala sensibilmente: possibile partita con una delle due a secco, in particolare il Galatasaray."
+          },
+          {
+            "label": "Doppia Chance 1X (Sporting o Pareggio)",
+            "quotaIndicativa": 1.3,
+            "fonte": "stima da quote 1X2, rif. web",
+            "probVera": 0.72,
+            "nota": "Sicurezza elevata vista la striscia interna dello Sporting, ma poco margine di valore aggiuntivo."
+          }
+        ],
+        "combo": {
+          "label": "1 (Sporting) & Gol/Gol No",
+          "quotaIndicativa": 3.6,
+          "fonte": "stima combinata",
+          "probVera": 0.3,
+          "nota": "Quota stimata per approssimazione, mercati correlati (assenza Osimhen). Verificare sempre la quota combo reale."
+        },
+        "rischio": "Il Galatasaray resta comunque una squadra internazionale esperta (6 vittorie nelle ultime 10) e potrebbe trovare altre soluzioni offensive senza Osimhen: non sottovalutare la resilienza turca in trasferta europea."
+      },
+      {
+        "id": "stuttgart-viking",
+        "match": "Stoccarda - Viking",
+        "orario": "18:45",
+        "competizione": "UEFA Champions League - Fase campionato, 1ª giornata",
+        "stadio": "MHPArena (Stoccarda)",
+        "contesto": "Lo Stoccarda arriva da un netto 4-1 al Colonia nell'ultimo turno di Bundesliga, mostrando buona verve realizzativa in casa. Il Viking FK, al suo esordio assoluto in questa fase della Champions League, ha una forma solida in Eliteserien (6 vittorie, 2 pareggi, 2 sconfitte nelle ultime 10), reduce da un pareggio 1-1 in trasferta col Sandefjord. Nessuna assenza rilevante confermata per nessuna delle due squadre dalle fonti consultate.",
+        "fattori": [
+          {
+            "lato": "casa",
+            "testo": "Vittoria per 4-1 sul Colonia nell'ultimo turno di Bundesliga, buona vena realizzativa in casa"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Prima storica partecipazione a questa fase della Champions League: pressione ambientale da gestire in una big-night europea"
+          },
+          {
+            "lato": "ospite",
+            "testo": "Forma solida in Eliteserien (6V-2N-2P nelle ultime 10), pareggio 1-1 nell'ultima trasferta col Sandefjord"
+          },
+          {
+            "lato": "neutro",
+            "testo": "Nessuna assenza rilevante confermata da nessuna delle due fonti consultate: prudenza nella stima"
+          }
+        ],
+        "stats": {
+          "casa": {
+            "possesso": 60,
+            "passPrec": 84,
+            "corner": 6,
+            "falli": 11,
+            "gialli": 2
+          },
+          "ospite": {
+            "possesso": 40,
+            "passPrec": 78,
+            "corner": 3,
+            "falli": 12,
+            "gialli": 2.2
+          },
+          "nota": "Stime basate su forma recente e stile di gioco, non dati in tempo reale."
+        },
+        "prob": {
+          "casa": 0.68,
+          "pareggio": 0.2,
+          "ospite": 0.12
+        },
+        "mercati": [
+          {
+            "label": "1 (Stuttgart vittoria)",
+            "quotaIndicativa": 1.45,
+            "fonte": "stima propria, non verificata su bookmaker reale",
+            "probVera": 0.7,
+            "nota": "Prima storica presenza del Viking in questa fase, Stoccarda in gran forma realizzativa (4-1 al Colonia): quota NON verificata direttamente su un bookmaker reale, verificarla prima di giocare."
+          },
+          {
+            "label": "Over 2.5 gol",
+            "quotaIndicativa": 1.55,
+            "fonte": "stima propria",
+            "probVera": 0.62,
+            "nota": "Buon potenziale offensivo dei padroni di casa reduci dal poker al Colonia. Quota già ragionevolmente efficiente."
+          },
+          {
+            "label": "Doppia Chance 1X (Stuttgart o Pareggio)",
+            "quotaIndicativa": 1.2,
+            "fonte": "stima da 1X2",
+            "probVera": 0.85,
+            "nota": "Sicurezza massima, poco payout: utile solo come gamba di rinforzo in multipla."
+          }
+        ],
+        "combo": {
+          "label": "1 (Stuttgart) & Over 2.5 gol",
+          "quotaIndicativa": 1.85,
+          "fonte": "stima combinata",
+          "probVera": 0.56,
+          "nota": "Quota stimata per approssimazione, non verificata su un bookmaker reale. Verificare sempre prima di giocarla."
+        },
+        "rischio": "Il Viking arriva da una striscia positiva in campionato norvegese e alla prima storica presenza in questa fase potrebbe sorprendere emotivamente, giocando senza pressione: attenzione a non sottovalutare l'avversario solo per il gap di categoria."
+      }
+    ],
+    "multiple": {
+      "sicura": {
+        "legs": [
+          {
+            "label": "Doppia Chance 1X (Liverpool o Pareggio)",
+            "match": "Liverpool - Atlético Madrid",
+            "quotaIndicativa": 1.28,
+            "probVera": 0.8
+          },
+          {
+            "label": "1 (Stuttgart vittoria)",
+            "match": "Stoccarda - Viking",
+            "quotaIndicativa": 1.45,
+            "probVera": 0.7
+          }
+        ],
+        "quotaTotale": 1.86,
+        "probVera": 0.56,
+        "nota": "Le due gambe con la probabilità reale più alta della giornata tra i mercati con valore non negativo, da partite diverse: priorità alla sicurezza, non al payout."
+      },
+      "bilanciata": {
+        "legs": [
+          {
+            "label": "Gol/Gol Sì (BTTS Sì)",
+            "match": "Napoli - Arsenal",
+            "quotaIndicativa": 1.88,
+            "probVera": 0.55
+          },
+          {
+            "label": "Gol/Gol No (almeno una a secco)",
+            "match": "Sporting - Galatasaray",
+            "quotaIndicativa": 2.25,
+            "probVera": 0.46
+          }
+        ],
+        "quotaTotale": 4.23,
+        "probVera": 0.253,
+        "nota": "Le due gambe con il miglior edge stimato della giornata (probabilità reale vs quota), da partite diverse: quota combinata indicativa ~4.23, probabilità reale combinata ~25%."
+      },
+      "azzardata": {
+        "legs": [
+          {
+            "label": "Doppia Chance 1X (Napoli o Pareggio)",
+            "match": "Napoli - Arsenal",
+            "quotaIndicativa": 2.05,
+            "probVera": 0.5
+          },
+          {
+            "label": "Under 4.5 gol",
+            "match": "PSG - Slovan Bratislava",
+            "quotaIndicativa": 1.75,
+            "probVera": 0.58
+          },
+          {
+            "label": "1 (Sporting vittoria)",
+            "match": "Sporting - Galatasaray",
+            "quotaIndicativa": 1.83,
+            "probVera": 0.56
+          }
+        ],
+        "quotaTotale": 6.57,
+        "probVera": 0.162,
+        "nota": "Tre gambe da tre partite diverse, tutte con valore individuale positivo: quota indicativa ~6.57, probabilità reale combinata ~16%. Nessuna gamba qui coincide con quelle usate nelle altre due multiple di oggi né con la settimanale in corso."
+      }
+    },
+    "upcoming": [
+      {
+        "competizione": "UEFA Champions League",
+        "data": "2026-09-10",
+        "match": "Fenerbahçe - Roma",
+        "nota": "In realtà Europa League, 1ª giornata, ore 18:45 — vedi candidates per approfondimento value"
+      },
+      {
+        "competizione": "UEFA Champions League",
+        "data": "2026-09-10",
+        "match": "Como - RB Lipsia",
+        "nota": "Champions League, 1ª giornata fase campionato, ore 21:00 — esordio assoluto del Como in Champions League"
+      },
+      {
+        "competizione": "UEFA Champions League",
+        "data": "2026-09-10",
+        "match": "PSV Eindhoven - Shakhtar Donetsk",
+        "nota": "Champions League, 1ª giornata fase campionato, ore 18:45"
+      },
+      {
+        "competizione": "UEFA Champions League",
+        "data": "2026-09-10",
+        "match": "Bayern Monaco - Bodø/Glimt",
+        "nota": "Champions League, 1ª giornata fase campionato, ore 21:00"
+      },
+      {
+        "competizione": "UEFA Champions League",
+        "data": "2026-09-10",
+        "match": "Manchester United - Sabah",
+        "nota": "Champions League, 1ª giornata fase campionato, ore 21:00"
+      },
+      {
+        "competizione": "UEFA Champions League",
+        "data": "2026-09-10",
+        "match": "Slavia Praga - Lens",
+        "nota": "Champions League, 1ª giornata fase campionato, ore 21:00"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-11",
+        "match": "Venezia - Fiorentina",
+        "nota": "4ª giornata Serie A, ore 20:45"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-12",
+        "match": "Genoa - Frosinone",
+        "nota": "4ª giornata Serie A, ore 15:00"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-12",
+        "match": "Lazio - Milan",
+        "nota": "4ª giornata Serie A, ore 18:00"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-12",
+        "match": "Atalanta - Cagliari",
+        "nota": "4ª giornata Serie A, ore 20:45"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-13",
+        "match": "Lecce - Monza",
+        "nota": "4ª giornata Serie A, ore 15:00"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-13",
+        "match": "Napoli - Bologna",
+        "nota": "4ª giornata Serie A, ore 18:00"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-13",
+        "match": "Sassuolo - Juventus",
+        "nota": "4ª giornata Serie A, ore 20:45"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-14",
+        "match": "Como - Parma",
+        "nota": "4ª giornata Serie A, ore 18:30"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-14",
+        "match": "Torino - Roma",
+        "nota": "4ª giornata Serie A, ore 18:30"
+      },
+      {
+        "competizione": "Serie A",
+        "data": "2026-09-14",
+        "match": "Inter - Udinese",
+        "nota": "4ª giornata Serie A, ore 20:45 — chiude il turno"
+      },
+      {
+        "competizione": "UEFA Europa League",
+        "data": "2026-09-16",
+        "match": "Milan - Benfica",
+        "nota": "Europa League, 1ª giornata fase campionato, ore 21:00"
+      },
+      {
+        "competizione": "UEFA Europa League",
+        "data": "2026-09-17",
+        "match": "Juventus - NEC Nijmegen",
+        "nota": "Europa League, 1ª giornata fase campionato, ore 21:00"
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "match": "Como - RB Lipsia",
+      "date": "2026-09-10",
+      "time": "21:00",
+      "market": "Doppia Chance 1X (Como o Pareggio)",
+      "motivo": "Esordio assoluto del Como in Champions League, ma i lariani arrivano in gran forma (vittorie su Napoli e Genoa 4-1, pareggio con l'Udinese) mentre il Lipsia è discontinuo in Bundesliga (3-0 al Mönchengladbach poi 1-3 col Werder Brema) con Demichelis ancora al lavoro su una rosa giovane. Quota Como vittoria intorno a 1.85: da valutare a ridosso della partita con formazioni ufficiali."
+    },
+    {
+      "match": "Fenerbahçe - Roma",
+      "date": "2026-09-10",
+      "time": "18:45",
+      "market": "2 (Roma vittoria) o, in versione più prudente, Doppia Chance 2X (Roma o Pareggio)",
+      "motivo": "Roma capolista con 9 punti su 9 in Serie A (due 4-0 a Fiorentina e Lecce, rimonta sull'Atalanta) e senza assenze segnalate, contro un Fenerbahçe privo di Oosterwolde e Guendouzi (squalificato). Il mercato quota comunque la Roma solo a 2.15: possibile sottovalutazione vista la differenza di forma e di rosa disponibile."
+    },
+    {
+      "match": "Venezia - Fiorentina",
+      "date": "2026-09-11",
+      "time": "20:45",
+      "market": "Under 2.5 gol / Gol-Gol No - da confermare a ridosso della partita",
+      "motivo": "4a giornata. Due squadre a secco di vittorie e con forte crisi realizzativa (Fiorentina 0 gol fatti in 2 gare, Venezia 0 gol fatti in 2 gare): match dal potenziale avaro di reti, sulla carta il mercato tenderà a favorire la Fiorentina per reputazione più di quanto i numeri reali giustifichino (stesso schema del caso Fiorentina-Torino del 5/09)."
+    }
+  ],
+  "results": [
+    {
+      "date": "2026-09-08",
+      "matches": [
+        {
+          "match": "Real Madrid - Inter",
+          "risultato": "2-1",
+          "nota": "Mbappé (14') e Valverde (23') decidono, Carlos Augusto (77') accorcia. Confermato FT da Fanpage e Bolavip.",
+          "esiti": [
+            {
+              "label": "Doppia Chance X2 (Inter o Pareggio)",
+              "esito": "lost"
+            },
+            {
+              "label": "Gol/Gol Sì (BTTS Sì)",
+              "esito": "won"
+            },
+            {
+              "label": "1 (Real Madrid vittoria)",
+              "esito": "won"
+            },
+            {
+              "label": "Doppia Chance X2 (Inter o Pareggio) + Gol/Gol Sì",
+              "esito": "lost"
+            }
+          ]
+        },
+        {
+          "match": "AEK Atene - LASK",
+          "risultato": "1-0",
+          "nota": "Gol di Marin (21', punizione diretta). Confermato FT da Infobea e VAVEL.",
+          "esiti": [
+            {
+              "label": "1 (AEK Atene vittoria)",
+              "esito": "won"
+            },
+            {
+              "label": "Doppia Chance 1X (AEK o Pareggio)",
+              "esito": "won"
+            },
+            {
+              "label": "1 (AEK) & Under 3.5 gol",
+              "esito": "won"
+            }
+          ]
+        },
+        {
+          "match": "Club Brugge - Aston Villa",
+          "risultato": "2-3",
+          "nota": "Villa ribalta 2 volte: McGinn (11'), Buendia (22'), Jackson (43') vs Vetlesen (19') e Tresoldi (61' rig.). Confermato FT da Sky Sports e VAVEL.",
+          "esiti": [
+            {
+              "label": "1 (Club Brugge vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "lost"
+            },
+            {
+              "label": "1 (Brugge) & Under 2.5 gol",
+              "esito": "lost"
+            }
+          ]
+        },
+        {
+          "match": "Borussia Dortmund - Villarreal",
+          "risultato": "4-0",
+          "nota": "Poker Dortmund dopo il rosso a Foyth: doppietta Guirassy (45+2', 54' rig.), Adeyemi (58'), Svensson. Confermato FT da Yahoo Sports e Soccerway (fonti indipendenti concordi).",
+          "esiti": [
+            {
+              "label": "Over 2.5 gol",
+              "esito": "won"
+            },
+            {
+              "label": "Gol/Gol Sì (BTTS Sì)",
+              "esito": "lost"
+            },
+            {
+              "label": "1 (Dortmund) & Over 2.5 gol",
+              "esito": "won"
+            }
+          ]
+        },
+        {
+          "match": "Porto - Manchester City",
+          "risultato": "0-2",
+          "nota": "Doppietta Haaland (47', 90+'). Confermato FT da 101GreatGoals.",
+          "esiti": [
+            {
+              "label": "2 (Manchester City vittoria)",
+              "esito": "won"
+            },
+            {
+              "label": "2 (City) & Over 2.5 gol",
+              "esito": "lost"
+            }
+          ]
+        },
+        {
+          "match": "Lille - Real Betis",
+          "risultato": "2-3",
+          "nota": "Betis rimonta 2 volte: Bartra (33', 49') e Parrott (53') ribaltano Ueda (10') e Alexsandro (36'). Confermato FT da VAVEL, El Desmarque, La Tercera.",
+          "esiti": [
+            {
+              "label": "Doppia Chance 1X (Lille o Pareggio)",
+              "esito": "lost"
+            },
+            {
+              "label": "1 (Lille vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "X2 (Betis o Pareggio) & Under 3.5 gol",
+              "esito": "lost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "matches": [
+        {
+          "match": "Cagliari - Lecce",
+          "risultato": "1-0",
+          "nota": "Gol di Maldini al 29' (colpo di testa su corner di Fazzini). Confermato FT da Sky Sport, Virgilio, Leccenews24, LecceOggi, Lecceprima.",
+          "esiti": [
+            {
+              "label": "Under 2.5 gol + Gol/Gol No",
+              "esito": "won"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "won"
+            },
+            {
+              "label": "Gol/Gol No (almeno una a secco)",
+              "esito": "won"
+            },
+            {
+              "label": "Doppia Chance 1X (Cagliari o Pareggio)",
+              "esito": "won"
+            }
+          ]
+        },
+        {
+          "match": "Udinese - Lazio",
+          "risultato": "1-2",
+          "nota": "Karlstrom (49') porta avanti l'Udinese, rimonta Lazio con Frattesi e Gudmundsson. Lazio a punteggio pieno (9 punti). Confermato FT da Virgilio, Calciomercato.it, Notiziariocalcio, Adnkronos.",
+          "esiti": [
+            {
+              "label": "Doppia Chance 2X (Lazio o Pareggio) + Gol/Gol Sì",
+              "esito": "won"
+            },
+            {
+              "label": "Gol/Gol Sì (BTTS Sì)",
+              "esito": "won"
+            },
+            {
+              "label": "Doppia Chance 2X (Lazio o Pareggio)",
+              "esito": "won"
+            },
+            {
+              "label": "2 (Lazio vittoria)",
+              "esito": "won"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "matches": [
+        {
+          "match": "Frosinone - Venezia",
+          "risultato": "3-2",
+          "nota": "Doppietta Raimondo (21', 39') e gol di Kvernadze (88'), Frosinone regge alla rimonta di Yeboah e Sagrado.",
+          "esiti": [
+            {
+              "label": "1 (Frosinone vittoria)",
+              "esito": "won"
+            },
+            {
+              "label": "1X (Frosinone o Pareggio)",
+              "esito": "won"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "lost"
+            },
+            {
+              "label": "Under 2.5 gol + Gol/Gol No",
+              "esito": "lost"
+            }
+          ]
+        },
+        {
+          "match": "Parma - Monza",
+          "risultato": "1-1",
+          "nota": "Gol di Robinson (38', Monza) e Lontani (60', Parma).",
+          "esiti": [
+            {
+              "label": "1 (Parma vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "won"
+            },
+            {
+              "label": "Gol/Gol No (almeno una a secco)",
+              "esito": "lost"
+            },
+            {
+              "label": "X (Pareggio) + Under 2.5 gol",
+              "esito": "won"
+            }
+          ]
+        },
+        {
+          "match": "Bologna - Sassuolo",
+          "risultato": "2-2",
+          "nota": "Doig (19') porta avanti il Sassuolo, Piccoli pareggia a inizio ripresa, Adzic riporta avanti il Sassuolo, Dovbyk pareggia al 90+1'.",
+          "esiti": [
+            {
+              "label": "1 (Bologna vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "Doppia Chance X2 (Sassuolo o Pareggio)",
+              "esito": "won"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "lost"
+            },
+            {
+              "label": "Doppia Chance X2 + Under 2.5 gol",
+              "esito": "lost"
+            }
+          ]
+        },
+        {
+          "match": "Juventus - Milan",
+          "risultato": "1-1",
+          "nota": "Gol di Cisse (Milan) e pareggio di Gatti in pieno recupero.",
+          "esiti": [
+            {
+              "label": "1 (Juventus vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "Doppia Chance X2 (Milan o Pareggio)",
+              "esito": "won"
+            },
+            {
+              "label": "2 (Milan vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "Doppia Chance X2 + Under 2.5 gol",
+              "esito": "won"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "won"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "matches": [
+        {
+          "match": "Fiorentina - Torino",
+          "risultato": "1-2",
+          "nota": "Torino ribalta nella ripresa: gol di Mandragora e Adams dopo il vantaggio viola.",
+          "esiti": [
+            {
+              "label": "1 (Fiorentina vittoria)",
+              "esito": "lost"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "lost"
+            },
+            {
+              "label": "X (Pareggio)",
+              "esito": "lost"
+            },
+            {
+              "label": "Multigol 1-3 gol",
+              "esito": "won"
+            }
+          ]
+        },
+        {
+          "match": "Inter - Napoli",
+          "risultato": "3-2",
+          "nota": "Napoli avanti 0-2, Inter rimonta con doppietta di Lautaro Martinez, gol decisivo al 91'.",
+          "esiti": [
+            {
+              "label": "1 (Inter vittoria)",
+              "esito": "won"
+            },
+            {
+              "label": "X (Pareggio)",
+              "esito": "lost"
+            },
+            {
+              "label": "Gol/Gol (BTTS Sì)",
+              "esito": "won"
+            },
+            {
+              "label": "Multigol 2-4 gol",
+              "esito": "lost"
+            }
+          ]
+        },
+        {
+          "match": "Roma - Atalanta",
+          "risultato": "2-1",
+          "nota": "Atalanta avanti con Ederson, Roma la ribalta nel finale con Hermoso e Soulé.",
+          "esiti": [
+            {
+              "label": "1 (Roma vittoria)",
+              "esito": "won"
+            },
+            {
+              "label": "Under 2.5 gol",
+              "esito": "lost"
+            },
+            {
+              "label": "Roma a Zero (clean sheet)",
+              "esito": "lost"
+            },
+            {
+              "label": "1 + Under 3.5 gol",
+              "esito": "won"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "matches": [
+        {
+          "match": "Genoa - Como",
+          "risultato": "1-4",
+          "nota": "Como vince in rimonta. Partita non coperta da un'analisi giornaliera strutturata; esito ricostruito dalla giocata già confermata.",
+          "esiti": [
+            {
+              "label": "2 (Como) + Under 2.5",
+              "esito": "lost"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
