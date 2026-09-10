@@ -1,0 +1,53 @@
+name: Notifiche push (pronostici)
+
+# Da copiare in gianluca85mura-cloud/bet-tracker-serie-a-data, stesso
+# percorso relativo. Vedi github-action-notifiche/README.md nel repo
+# dell'app Flutter per il perché e i passi di attivazione.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - analisi-oggi.json
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Serve la versione precedente del file per confrontarla con
+          # quella nuova (fetch-depth 1, il default, non la porterebbe).
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Recupera la versione precedente di analisi-oggi.json (se esiste)
+        id: prev
+        run: |
+          if git show HEAD~1:analisi-oggi.json > /tmp/prev.json 2>/dev/null; then
+            echo "path=/tmp/prev.json" >> "$GITHUB_OUTPUT"
+          else
+            echo "path=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Autenticazione Google (service account)
+        id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FCM_SERVICE_ACCOUNT_JSON }}
+          token_format: access_token
+
+      - name: Calcola e invia le notifiche via FCM HTTP v1
+        env:
+          FCM_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
+          FCM_PROJECT_ID: bet-tracker-serie-a
+          FCM_TOPIC: pronostici-generali
+        run: >
+          node .github/workflows/compute-and-send-notifications.mjs
+          "${{ steps.prev.outputs.path }}" analisi-oggi.json
